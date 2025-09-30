@@ -42,7 +42,7 @@ Task-based layout with all deadlines visible simultaneously, integrated progress
 
 ### Variant B: Calendar View
 
-![Calendar Overview](calendar/calendar_dashboard.png)
+! [Calendar](calendar/dashboard/calendar_dashboard.png)
 *Calendar-based interface with deadlines marked on dates*
 
 ![Calendar Interaction](calendar/calendar_task_details.png)
