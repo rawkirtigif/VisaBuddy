@@ -1,5 +1,3 @@
-# VisaBuddy
-A/B testing analysis comparing checklist vs calendar interfaces for F-1 visa deadline management
 # VisaBuddy A/B Testing Analysis
 
 User experience research project comparing checklist vs calendar interface designs for F-1 visa deadline management application.
