@@ -45,7 +45,7 @@ Task-based layout with all deadlines visible simultaneously, integrated progress
 ! [Calendar](calendar/dashboard/calendar_dashboard.png)
 *Calendar-based interface with deadlines marked on dates*
 
-![Calendar Interaction](calendar/calendar_task_details.png)
+![Calendar Interaction](calendar/task_details)
 *Task details panel accessed by clicking calendar dates*
 
 Date-based calendar layout requiring navigation between dates to view deadline details.
