@@ -32,10 +32,10 @@ Both variants had identical visual styling and features. The only difference was
 
 ### Variant A: Checklist View (Winner)
 
-![Checklist Dashboard](emergent/checklist_dashboard.png)
+![Checklist Dashboard](emergent/checklist_dashboard)
 *Main dashboard with task-based layout and progress tracking*
 
-![Task Details](emergent/checklist_task_details.png)
+![Task Details](emergent/checklist_task_details)
 *Expandable task cards with completion workflow and document checklists*
 
 Task-based layout with all deadlines visible simultaneously, integrated progress tracking, and direct completion checkboxes.
